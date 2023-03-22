@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_check"
+        android:icon="@drawable/check_double_solid"
+        android:title="@string/title_checks" />
+
+    <item
+        android:id="@+id/navigation_category"
+        android:icon="@drawable/categories"
+        android:title="@string/title_categories" />
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_wallet"
+        android:icon="@drawable/wallet_solid"
+        android:title="@string/title_wallets" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/user_solid"
+        android:title="@string/title_profile">
+
+<!--        <menu>-->
+<!--            <group android:id="@+id/group_other">-->
+<!--                <item-->
+<!--                    android:id="@+id/navigation_options"-->
+<!--                    android:title="@string/title_options" />-->
+
+<!--                <item-->
+<!--                    android:id="@+id/navigation_income"-->
+<!--                    android:title="@string/title_income" />-->
+<!--            </group>-->
+<!--        </menu>-->
+
+    </item>
+
+</menu>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "943055105598",
+    "firebase_url": "https://psiu-budget.firebaseio.com",
+    "project_id": "psiu-budget",
+    "storage_bucket": "psiu-budget.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943055105598:android:93f98ec260f75d11e0eb6f",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943055105598-89b7020s49kug3rv9br257tlmd8kmktq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapp",
+            "certificate_hash": "330f10c37f1073f9482fc12e8cdf34384c0df9cc"
+          }
+        },
+        {
+          "client_id": "943055105598-29rb8f4d8er0e6fb4n1dmuir87q0t0v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-BesHeVBeT5r_q0GnFU0gxUb01EtkvFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943055105598-29rb8f4d8er0e6fb4n1dmuir87q0t0v2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

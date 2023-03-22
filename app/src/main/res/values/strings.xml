@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Family Budget</string>
+    <string name="title_home">Home</string>
+    <string name="title_sing_in">Sing In</string>
+    <string name="title_sing_out">Sing Out</string>
+    <string name="title_checks">Checks</string>
+    <string name="title_purses">Purses</string>
+    <string name="title_wallets">Wallets</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_categories">Categories</string>
+    <string name="google_client_id">1013746653150-5e04ejlug7m9uv281otim7jjj1bkenjp.apps.googleusercontent.com</string>
+    <string name="your_web_client_id">943055105598-29rb8f4d8er0e6fb4n1dmuir87q0t0v2.apps.googleusercontent.com</string>
+    <string name="sha1">33:0F:10:C3:7F:10:73:F9:48:2F:C1:2E:8C:DF:34:38:4C:0D:F9:CC</string>
+    <string name="sha256">BB:28:EB:83:17:E3:BA:97:2A:86:05:55:25:C9:27:58:B7:4C:BD:4C:AE:FE:0B:98:0A:85:34:16:29:2B:B4:7A</string>
+    <string name="title_options">Options</string>
+    <string name="title_income">Incomes</string>
+</resources>
