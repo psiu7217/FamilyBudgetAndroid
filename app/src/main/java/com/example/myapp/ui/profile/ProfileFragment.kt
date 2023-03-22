@@ -5,18 +5,13 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import com.example.myapp.databinding.FragmentProfileBinding
 import com.google.firebase.auth.FirebaseAuth
-//********************//
 import android.annotation.SuppressLint
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
-import android.widget.Button
 import com.example.myapp.LoginActivity
-import com.example.myapp.R
 
 class ProfileFragment : Fragment() {
 
